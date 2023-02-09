@@ -1,5 +1,4 @@
-from he import print4
+from he import *
 
 
 print("hello")
-print4()
